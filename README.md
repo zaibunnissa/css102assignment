@@ -1,2 +1,2 @@
 # css102assignment
-Created with CodeSandbox
+Designed profile using CSS.
